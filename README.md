@@ -30,4 +30,13 @@ cargo install --path .
 ## Usage
 
 ```
+Usage: div <DIVEND1> <DIVEND2>
+
+Arguments:
+  <DIVEND1>  help me
+  <DIVEND2>  help me
+
+Options:
+  -h, --help     Print help
+  -V, --version  Print version
 ```
